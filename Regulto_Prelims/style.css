@@ -1,0 +1,48 @@
+h1{
+    color:red;
+    
+}
+ul {
+    color:darkred;
+}
+p{
+    color:darkred;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: #96D4D4;
+  }
+  .img{
+      color:red;
+  }
+  .name,.red,.redd{
+      color: red;
+  }
+  .age,.blue{
+      color:blue;
+  }
+  .favecl,.green,.Ggreen{
+      color:green;
+  }
+  .food,.yello{
+      color:yellow;
+  }
+  .pink{
+      color:pink;
+  }
+  .brown{
+      color:brown;
+  }
+  .list1{
+      color:cyan;
+  }
+  .list2{
+      color:red;
+  }
+  .list3{
+      color:darkred;
+  }
+  
