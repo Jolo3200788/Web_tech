@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        Regulto, Oboza Website
+    </title>
+</head>
+<link href="style.css" rel="stylesheet"/>
+<body>
+    <div class="navbar"> 
+        <img class="logo" src="logoLetran.png">
+        <nav>
+            <a  href="#">Home</a>
+            <a  href="#">Academics</a>
+            <a  href="#">Administration</a>
+            <a  href="#">Carrer Opportunities</a>
+            <a  href="#">Library</a>
+            <a  href="#">Collage SIS portal</a>
+            <a  href="#">Course offering for A.Y. 2021-2022</a>
+
+        </nav>
+    </div>
+</body>
+
+
+</html>
